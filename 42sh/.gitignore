@@ -1,0 +1,7 @@
+*.o
+42sh
+units_tests
+.42shrc
+.42shrc_history
+file
+.vscode
